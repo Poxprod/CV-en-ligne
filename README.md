@@ -84,9 +84,13 @@ Projet de validation des acquis dans le cadre de la formation RFD 2019
    
    - *3.1.3 Part du prix attribué à chaque fonction* 
    
+     **Cet indicateur financier n'est pas pris en compte dans ce projet.**  
+   
  - **3.2 Pour l’ensemble du produit**
  
    - *3.2.1 Prix de la réalisation de la version de base*
+   
+     **Cet indicateur financier n'est pas pris en compte dans ce projet.**  
    
    - *3.2.2 Options et variantes proposées non retenues au cahier des charges* 
    
