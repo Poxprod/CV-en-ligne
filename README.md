@@ -11,11 +11,11 @@ Projet de validation des acquis dans le cadre de la formation RFD 2019
  
    - *1.1.1 Finalités*
    
-     Cet exercice doit permettre au formateur, d'apprécier les compétences en programmation web acquises durant la formation. Les bonnes pratiques d'implémentation du code seront jugées.a qualité du code, de l'algorithmie 
+     **Cet exercice doit permettre au formateur, d'apprécier les compétences en programmation web acquises durant la formation. Les bonnes pratiques d'implémentation du code seront jugées.a qualité du code, de l'algorithmie** 
 
    - *1.1.2 Espérance de retour sur investissement*
      
-     Cet indicateur n'est pas pris en compte dans ce projet.  
+     **Cet indicateur financier n'est pas pris en compte dans ce projet.**  
      
  - **1.2 Contexte** 
  
