@@ -1,14 +1,8 @@
 ## Philippe BOLONKIN
 Projet de validation des acquis dans le cadre de la formation RFD 2019
 
-# **Objectifs généraux :**
-
-# **Analyse fonctionnelle :**
-
-# **Objectifs généraux :**
-
-1. Présentation générale du problème 
-1.1 Projet 
+# Présentation générale du problème 
+ 1.1. Projet 
 1.1.1 Finalités 
 1.1.2 Espérance de retour sur investissement 
 1.2 Contexte 
@@ -23,7 +17,7 @@ Projet de validation des acquis dans le cadre de la formation RFD 2019
 1.4.1 Listes exhaustives des éléments (personnes, équipements, matières…) et contraintes (environnement) 
 1.4.2 Caractéristiques pour chaque élément de l’environnement 
  
-2. Expression fonctionnelle du besoin 
+#2. Expression fonctionnelle du besoin 
 2.1 Fonctions de service et de contrainte 
 2.1.1 Fonctions de service principales (qui sont la raison d’être du produit) 
 2.1.2 Fonctions de service complémentaires (qui améliorent, facilitent ou complètent le service rendu) 
@@ -33,7 +27,7 @@ Projet de validation des acquis dans le cadre de la formation RFD 2019
 2.3.1 Niveaux dont l’obtention est imposée 
 2.3.2 Niveaux souhaités mais révisables 
  
-3. Cadre de réponse 
+#3. Cadre de réponse 
 3.1 Pour chaque fonction 
 3.1.1 Solution proposée 
 3.1.2 Niveau atteint pour chaque critère d’appréciation de cette fonction et modalités de contrôle 
