@@ -11,25 +11,42 @@ Projet de validation des acquis dans le cadre de la formation RFD 2019
  
    - *1.1.1 Finalités*
    
-   - *1.1.2 Espérance de retour sur investissement* 
- 
+     Cet exercice doit permettre au formateur, d'apprécier les compétences en programmation web acquises durant la formation. Les bonnes pratiques d'implémentation du code seront jugées.a qualité du code, de l'algorithmie 
+
+   - *1.1.2 Espérance de retour sur investissement*
+     
+     Cet indicateur n'est pas pris en compte dans ce projet.  
+     
  - **1.2 Contexte** 
  
    - *1.2.1 Situation du projet par rapport aux autres projets de l’entreprise* 
    
    - *1.2.2 Études déjà effectuées* 
-   
+    
    - *1.2.3 Études menées sur des sujets voisins* 
    
    - *1.2.4 Suites prévues* 
    
    - *1.2.5 Nature des prestations demandées*
-   
+     
+     Création d'un depot GitHub pour le projet
+     Rédaction d'un cahier des charges fonctionnel dans le fichier README.MD 
+     Création de l'arborescence du site
+     Définition du design du site
+     Création d'une base de données relationnelle
+     Mise en place du serveur local
+     Création du 
+     
+
    - *1.2.6 Parties concernées par le déroulement du projet et ses résultats (demandeurs, utilisateurs)* 
    
    - *1.2.7 Caractère confidentiel s’il y a lieu* 
-   
- - **1.3 Enoncé du besoin (finalités du produit pour le futur utilisateur tel que prévu par le demandeur)** 
+     
+     Aucune notion de confidentialité n'est exigée
+    
+ - **1.3 Enoncé du besoin (finalités du produit pour le futur utilisateur tel que prévu par le demandeur)**
+ 
+     
  
  - **1.4 Environnement du produit recherché** 
  
@@ -82,4 +99,5 @@ Projet de validation des acquis dans le cadre de la formation RFD 2019
    - *3.2.6 Prévisions de fiabilité* 
    
    - *3.2.7 Perspectives d’évolution technologique*
+   
    ***
