@@ -30,11 +30,17 @@ Projet de validation des acquis en développement web dans le cadre de la format
    - *1.2.5 Nature des prestations demandées*
      
      Création d'un depot GitHub pour le projet
+     
      Rédaction d'un cahier des charges fonctionnel dans le fichier README.MD 
+     
      Création de l'arborescence du site
+     
      Définition du design du site
+     
      Création d'une base de données relationnelle
+     
      Mise en place du serveur local
+     
      Création du 
      
 
