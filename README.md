@@ -1,4 +1,4 @@
-# CV en ligne #
+# Cahier des charges fonctionnel pour site CV en ligne #
 ## Philippe BOLONKIN
 Projet de validation des acquis dans le cadre de la formation RFD 2019
 
