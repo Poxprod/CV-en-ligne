@@ -1,6 +1,6 @@
 # Cahier des charges fonctionnel pour site CV en ligne #
 ## Philippe BOLONKIN
-Projet de validation des acquis dans le cadre de la formation RFD 2019
+Projet de validation des acquis en développement web dans le cadre de la formation RFD 2019
 
 *Demandeur : Frédéric NOEL - NFactory School*
 
