@@ -21,8 +21,8 @@ Projet de validation des acquis en développement web dans le cadre de la format
  
    - *1.2.1 Situation du projet par rapport aux autres projets de l’entreprise* 
    
-   - *1.2.2 Études déjà effectuées* 
-    
+   - *1.2.2 Études déjà effectuées*
+       
    - *1.2.3 Études menées sur des sujets voisins* 
    
    - *1.2.4 Suites prévues* 
@@ -52,7 +52,7 @@ Projet de validation des acquis en développement web dans le cadre de la format
     
  - **1.3 Enoncé du besoin (finalités du produit pour le futur utilisateur tel que prévu par le demandeur)**
  
-     
+     Le site doit pouvoir être consulté par les recruteurs sur les réseaux professionnels en ligne tels Linkedin et permettre le téléchargement d'un CV au format PDF ainsi qu'être contacté via un formulaire.   
  
  - **1.4 Environnement du produit recherché** 
  
@@ -66,6 +66,13 @@ Projet de validation des acquis en développement web dans le cadre de la format
  - **2.1 Fonctions de service et de contrainte**
 
    - *2.1.1 Fonctions de service principales (qui sont la raison d’être du produit)*
+   
+   **Page principale d'accueil**
+   
+   **Page COMPETENCES**
+   **Page EXPERIENCES PROFESSIONNELLES**
+   **Page FORMATIONS**
+   **Page CONTACTEZ"
    
    - *2.1.2 Fonctions de service complémentaires (qui améliorent, facilitent ou complètent le service rendu)*
    
