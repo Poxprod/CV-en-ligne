@@ -11,11 +11,11 @@ Projet de validation des acquis en développement web dans le cadre de la format
  
    - *1.1.1 Finalités*
    
-     **Cet exercice doit permettre au formateur, d'apprécier les compétences en programmation web acquises durant la formation sur les langages HTML, CSS et PHP.**  
+        **Cet exercice doit permettre au formateur, d'apprécier les compétences en programmation web acquises durant la formation sur les langages HTML, CSS et PHP.**  
 
    - *1.1.2 Espérance de retour sur investissement*
      
-     **Cet indicateur financier n'est pas pris en compte dans ce projet.**  
+        **Cet indicateur financier n'est pas pris en compte dans ce projet.**  
      
  - **1.2 Contexte** 
  
@@ -23,45 +23,45 @@ Projet de validation des acquis en développement web dans le cadre de la format
    
    - *1.2.2 Études déjà effectuées*
    
-     **Techniques de Recherche d'Emploi**
+        **Techniques de Recherche d'Emploi**
      
-     **Personal branding**
+        **Personal branding**
             
    - *1.2.3 Études menées sur des sujets voisins* 
    
    - *1.2.4 Suites prévues* 
    
-     **Note attribuée dans le cadre du contrôle de fin de formation**
+        **Note attribuée dans le cadre du contrôle de fin de formation**
      
    - *1.2.5 Nature des prestations demandées*
      
-     **Création d'un dépot GitHub pour le projet**
+        **Création d'un dépot GitHub pour le projet**
      
-     **Rédaction d'un cahier des charges fonctionnel dans le fichier README.MD**
+        **Rédaction d'un cahier des charges fonctionnel dans le fichier README.MD**
      
-     **Création de l'arborescence du site**
+        **Création de l'arborescence du site**
      
-     **Définition du design du site**
+        **Définition du design du site**
      
-     **Création d'une base de données relationnelle afin de pouvoir enregistrer les informations envoyées par un formulaire de contact**
+        **Création d'une base de données relationnelle afin de pouvoir enregistrer les informations envoyées par un formulaire de contact**
      
-     **Mise en place du serveur local**
+        **Mise en place du serveur local**
 
    - *1.2.6 Parties concernées par le déroulement du projet et ses résultats (demandeurs, utilisateurs)*
    
-     **M. Fréderic NOEL - Formateur en développement web**
+        **M. Fréderic NOEL - Formateur en développement web**
      
-     **Mlle Marie-Maï VASSEUR - Chief Happiness Officer**
+        **Mlle Marie-Maï VASSEUR - Chief Happiness Officer**
      
-     **M. Emmanuel DA COSTA - Directeur de la NFactory School**
+        **M. Emmanuel DA COSTA - Directeur de la NFactory School**
     
    - *1.2.7 Caractère confidentiel s’il y a lieu* 
      
-     **Aucune confidentialité relative à ce projet**
+        **Aucune confidentialité relative à ce projet**
     
  - **1.3 Enoncé du besoin (finalités du produit pour le futur utilisateur tel que prévu par le demandeur)**
  
-     Le site doit pouvoir être consulté par les recruteurs sur les réseaux professionnels en ligne tels Linkedin et permettre le téléchargement d'un CV au format PDF ainsi qu'être contacté via un formulaire.   
+        Le site doit pouvoir être consulté par les recruteurs sur les réseaux professionnels en ligne tels Linkedin et permettre le téléchargement d'un CV au format PDF ainsi qu'être contacté via un formulaire.   
  
  - **1.4 Environnement du produit recherché** 
  
@@ -76,35 +76,35 @@ Projet de validation des acquis en développement web dans le cadre de la format
 
    - *2.1.1 Fonctions de service principales (qui sont la raison d’être du produit)*
    
-     **Page ACCUEIL**
+        **Page ACCUEIL**
    
-     **Page COMPETENCES**
+        **Page COMPETENCES**
   
-     **Page EXPERIENCES PROFESSIONNELLES**
+        **Page EXPERIENCES PROFESSIONNELLES**
   
-     **Page FORMATIONS**
+        **Page FORMATIONS**
   
-     **Page CONTACT**
+        **Page CONTACT**
    
    - *2.1.2 Fonctions de service complémentaires (qui améliorent, facilitent ou complètent le service rendu)*
    
-      Formulaire de contact lié à une base de données
+        **Formulaire de contact lié à une base de données**
    
    - *2.1.3 Contraintes (limitations à la liberté du concepteur-réalisateur)*
    
  - **2.2 Critères d’appréciation (en soulignant ceux qui sont déterminants pour l’évaluation des réponses)**
  
-      **Rédaction du cahier des charges fonctionnel**
+         **Rédaction du cahier des charges fonctionnel**
       
-      **Elaboration de la structure du site en HTML**
-      
-      **Elaboration du design en CSS**
-      
-      **Elaboration de fonctionalités en
-      
-      **Mise en place de la base de données**
-      
-      **Enregistrement d'informations en base de donées PHP**
+         **Elaboration de la structure du site en HTML**
+
+         **Elaboration du design en CSS**
+
+         **Elaboration de fonctionalités en
+
+         **Mise en place de la base de données**
+
+         **Enregistrement d'informations en base de donées PHP**
  
  - **2.3 Niveaux des critères d’appréciation et ce qui les caractérise**
  
