@@ -23,9 +23,9 @@ Projet de validation des acquis en développement web dans le cadre de la format
    
    - *1.2.2 Études déjà effectuées*
    
-        **Techniques de Recherche d'Emploi**
+        **  Techniques de Recherche d'Emploi**
      
-        **Personal branding**
+        **  Personal branding**
             
    - *1.2.3 Études menées sur des sujets voisins* 
    
