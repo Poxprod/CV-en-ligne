@@ -65,7 +65,7 @@ Projet de validation des acquis en développement web dans le cadre de la format
     
  - **1.3 Enoncé du besoin (finalités du produit pour le futur utilisateur tel que prévu par le demandeur)**
  
-      - **Le site doit pouvoir être consulté par les recruteurs sur les réseaux professionnels en ligne tels Linkedin et permettre le téléchargement d'un CV au format PDF ainsi qu'être contacté via un formulaire.**   
+     - **Le site doit pouvoir être consulté par les recruteurs sur les réseaux professionnels en ligne tels Linkedin et permettre le téléchargement d'un CV au format PDF ainsi qu'être contacté via un formulaire.**   
  
  - **1.4 Environnement du produit recherché** 
  
@@ -92,7 +92,7 @@ Projet de validation des acquis en développement web dans le cadre de la format
    
    - *2.1.2 Fonctions de service complémentaires (qui améliorent, facilitent ou complètent le service rendu)*
    
-    - **Formulaire de contact lié à une base de données**
+      - **Formulaire de contact lié à une base de données**
    
    - *2.1.3 Contraintes (limitations à la liberté du concepteur-réalisateur)*
    
@@ -100,17 +100,17 @@ Projet de validation des acquis en développement web dans le cadre de la format
      
  - **2.2 Critères d’appréciation (en soulignant ceux qui sont déterminants pour l’évaluation des réponses)**
  
-      - **Rédaction du cahier des charges fonctionnel**
+       - **Rédaction du cahier des charges fonctionnel**
 
-      - **Elaboration de la structure du site en HTML**
+       - **Elaboration de la structure du site en HTML**
 
-      - **Elaboration du design en CSS**
+       - **Elaboration du design en CSS**
 
-      - **Elaboration de fonctionalités en
+       - **Elaboration de fonctionalités en
 
-      - **Mise en place de la base de données**
+       - **Mise en place de la base de données**
 
-      - **Enregistrement d'informations en base de donées PHP**
+       - **Enregistrement d'informations en base de donées PHP**
  
  - **2.3 Niveaux des critères d’appréciation et ce qui les caractérise**
  
