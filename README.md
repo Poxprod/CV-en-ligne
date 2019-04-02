@@ -61,7 +61,7 @@ Projet de validation des acquis en développement web dans le cadre de la format
     
  - **1.3 Enoncé du besoin (finalités du produit pour le futur utilisateur tel que prévu par le demandeur)**
  
-        - **Le site doit pouvoir être consulté par les recruteurs sur les réseaux professionnels en ligne tels Linkedin et permettre le téléchargement d'un CV au format PDF ainsi qu'être contacté via un formulaire.**   
+      - **Le site doit pouvoir être consulté par les recruteurs sur les réseaux professionnels en ligne tels Linkedin et permettre le téléchargement d'un CV au format PDF ainsi qu'être contacté via un formulaire.**   
  
  - **1.4 Environnement du produit recherché** 
  
@@ -76,19 +76,19 @@ Projet de validation des acquis en développement web dans le cadre de la format
 
    - *2.1.1 Fonctions de service principales (qui sont la raison d’être du produit)*
    
-        - **Page ACCUEIL**
+     - **Page ACCUEIL**
    
-        - **Page COMPETENCES**
+     - **Page COMPETENCES**
   
-        - **Page EXPERIENCES PROFESSIONNELLES**
+     - **Page EXPERIENCES PROFESSIONNELLES**
   
-        - **Page FORMATIONS**
+     - **Page FORMATIONS**
   
-        - **Page CONTACT**
+     - **Page CONTACT**
    
    - *2.1.2 Fonctions de service complémentaires (qui améliorent, facilitent ou complètent le service rendu)*
    
-        - **Formulaire de contact lié à une base de données**
+     - **Formulaire de contact lié à une base de données**
    
    - *2.1.3 Contraintes (limitations à la liberté du concepteur-réalisateur)*
    
