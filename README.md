@@ -24,6 +24,7 @@ Projet de validation des acquis en développement web dans le cadre de la format
    - *1.2.2 Études déjà effectuées*
    
      **Techniques de Recherche d'Emploi**
+     
      **Personal branding**
             
    - *1.2.3 Études menées sur des sujets voisins* 
@@ -49,7 +50,9 @@ Projet de validation des acquis en développement web dans le cadre de la format
    - *1.2.6 Parties concernées par le déroulement du projet et ses résultats (demandeurs, utilisateurs)*
    
      **M. Fréderic NOEL - Formateur en développement web**
+     
      **Mlle Marie-Maï VASSEUR - Chief Happiness Officer**
+     
      **M. Emmanuel DA COSTA - Directeur de la NFactory School**
     
    - *1.2.7 Caractère confidentiel s’il y a lieu* 
@@ -73,11 +76,15 @@ Projet de validation des acquis en développement web dans le cadre de la format
 
    - *2.1.1 Fonctions de service principales (qui sont la raison d’être du produit)*
    
-   **Page ACCUEIL**
-   **Page COMPETENCES**
-   **Page EXPERIENCES PROFESSIONNELLES**
-   **Page FORMATIONS**
-   **Page CONTACT*"
+     **Page ACCUEIL**
+   
+     **Page COMPETENCES**
+  
+     **Page EXPERIENCES PROFESSIONNELLES**
+  
+     **Page FORMATIONS**
+  
+     **Page CONTACT*"
    
    - *2.1.2 Fonctions de service complémentaires (qui améliorent, facilitent ou complètent le service rendu)*
    
@@ -87,12 +94,17 @@ Projet de validation des acquis en développement web dans le cadre de la format
    
  - **2.2 Critères d’appréciation (en soulignant ceux qui sont déterminants pour l’évaluation des réponses)**
  
-   **Rédaction du cahier des charges fonctionnel**
-   **Elaboration de la structure du site en HTML**
-   **Elaboration du design en CSS**
-   **Elaboration de fonctionalités en 
-   **Mise en place de la base de données**
-   **Enregistrement d'informations en base de donées PHP**
+      **Rédaction du cahier des charges fonctionnel**
+      
+      **Elaboration de la structure du site en HTML**
+      
+      **Elaboration du design en CSS**
+      
+      **Elaboration de fonctionalités en
+      
+      **Mise en place de la base de données**
+      
+      **Enregistrement d'informations en base de donées PHP**
  
  - **2.3 Niveaux des critères d’appréciation et ce qui les caractérise**
  
