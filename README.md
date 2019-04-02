@@ -11,7 +11,7 @@ Projet de validation des acquis en développement web dans le cadre de la format
  
    - *1.1.1 Finalités*
    
-     **Cet exercice doit permettre au formateur, d'apprécier les compétences en programmation web acquises durant la formation sur les langages HTML, CSS et PHP.  
+     **Cet exercice doit permettre au formateur, d'apprécier les compétences en programmation web acquises durant la formation sur les langages HTML, CSS et PHP.**  
 
    - *1.1.2 Espérance de retour sur investissement*
      
@@ -84,7 +84,7 @@ Projet de validation des acquis en développement web dans le cadre de la format
   
      **Page FORMATIONS**
   
-     **Page CONTACT*"
+     **Page CONTACT**
    
    - *2.1.2 Fonctions de service complémentaires (qui améliorent, facilitent ou complètent le service rendu)*
    
